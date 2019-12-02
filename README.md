@@ -25,14 +25,14 @@ Votre discord va ensuite redémarrer et pouf, votre discord, est maintenant prê
 
 ## IIII - Installation d'un thème
 
-Pour installer un thème il vous faut aller dans ;                                                                                         
+Pour installer un thème il vous faut aller dans ;                                                                                       
 Paramèrtres > Vous descendez et clicker sur "Thèmes" > Clicker sur "Ouvrir le dossier des thèmes" et laisser votre dossier à coter.       
 Télécharger mon thème disponible ici ;                                                                                                   
-https://github.com/NaNonnI/nanonni.github.io/tree/master/betterdiscord/themes/era
+https://github.com/NaNonnI/nanonni.github.io/tree/master/betterdiscord/themes/era                                                       
 et ensuite glisse le dans votre dossier thème.                                                                                           
 
 ## V - Fin !
 
-Après avoir faits tout ça, cocher la case à côté du nom du thème, et voila !                                                               
-Votre discord est maintenant équipé de mon thème !                                                                                         
-Biensur cette technique marche pour n'importe quel thème.                                                                                 
+Après avoir faits tout ça, cocher la case à côté du nom du thème, et voila !                                                             
+Votre discord est maintenant équipé de mon thème !                                                                                       
+Biensur cette technique marche pour n'importe quel thème. 
