@@ -1,5 +1,5 @@
 # Comment installer un thème discord
-
+## test
 Pour commencer, avant toute chose cette "astuce" n'est disponible que sur ordinateur,                                                     
 de plus, une modification de client (n'importe quelle forme) est strictement interdite par discord et est bannissable.                     
 En faisant ça, votre discord devient vulnérable à tout virus cacher, du style copieur de mot de passe etc.                                 
