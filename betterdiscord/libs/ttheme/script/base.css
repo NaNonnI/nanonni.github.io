@@ -1,5 +1,5 @@
 :root {
-  --BG-image-default: url("https://raw.githubusercontent.com/NaNonnI/nanonni.github.io/master/betterdiscord/libs/ttheme/img/background.png");
+  --BG-image-default: url("https://nanonni.github.io/betterdiscord/libs/ttheme/img/background.png");
   --BG-image-set: var(--BG-image,var(--BG-image-default));
   --BG-tint-colour-default: 255, 51, 159;
   --BG-tint-colour-set: var(--BG-tint-colour, var(--BG-tint-colour-default));
